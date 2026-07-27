@@ -1,0 +1,9 @@
+TC01 - Status code: PASS (expected=200) actual=200
+TC02 - Wrong status: FAIL (expected=200) actual=404
+TC03 - Username: PASS (expected=minh_qa) actual=minh_qa
+TC01 - Status code: PASS (expected=200) actual=200
+TC02 - Wrong status: FAIL (expected=200) actual=404
+TC03 - Username: PASS (expected=minh_qa) actual=minh_qa
+TC01 - Status code: PASS (expected=200) actual=200
+TC02 - Wrong status: FAIL (expected=200) actual=404
+TC03 - Username: PASS (expected=minh_qa) actual=minh_qa
